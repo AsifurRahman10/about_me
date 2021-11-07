@@ -1,0 +1,15 @@
+padding
+border
+font size
+background colour
+colour
+letter spacing 
+font weight
+margin
+width 
+height
+border radius 
+display
+font family
+font weight
+font style
